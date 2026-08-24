@@ -128,4 +128,4 @@ This project was built to practice:
 
 **Vinayak Shantha Nayak**
 
-Built with ❤️ using **React.js + Tailwind CSS**.
+Built  using **React.js + Tailwind CSS**.
