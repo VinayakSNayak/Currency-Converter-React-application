@@ -1,16 +1,46 @@
-# React + Vite
+Currency Converter 💱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive currency converter built using React.js and Tailwind CSS. It fetches exchange rates from a currency API and allows users to convert between different currencies.
 
-Currently, two official plugins are available:
+Features
+💱 Convert between multiple currencies
+🔄 Swap From and To currencies
+🌐 Fetch exchange rates using a REST API
+⚛️ React Hooks (useState, useEffect, useId)
+🪝 Custom Hook for fetching currency information
+🧩 Reusable InputBox component
+📱 Responsive UI using Tailwind CSS
+Tech Stack
+React.js
+JavaScript
+Tailwind CSS
+REST API
+Fetch API
+Vite
+How It Works
+Select the From currency.
+Enter the amount.
+Select the To currency.
+Click Convert.
+The application uses the latest exchange rate from the API to calculate the converted amount.
+Installation
+git clone <your-repository-url>
+cd currency-converter
+npm install
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Then open the local development URL shown by Vite.
 
-## React Compiler
+Project Structure
+src/
+├── components/
+│   ├── InputBox.jsx
+│   └── index.js
+├── hooks/
+│   └── useCurrencyInfo.js
+├── App.jsx
+├── main.jsx
+└── index.css
+Learning
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was built to practice React Hooks, custom hooks, API integration, reusable components, props, state management, and Tailwind CSS.
