@@ -121,7 +121,8 @@ This project was built to practice:
 
 Add a screenshot of the application here:
 
-    ![Currency Converter Preview](./preview.png)
+    <img width="1253" height="720" alt="image" src="https://github.com/user-attachments/assets/f48e7c94-bbc3-4952-a85e-ec8e3e28912e" />
+
 
 ---
 
