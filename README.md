@@ -118,10 +118,8 @@ This project was built to practice:
 ---
 
 ## 📸 Preview
+<img width="1253" height="720" alt="image" src="https://github.com/user-attachments/assets/1c679bae-cbde-49d6-8457-e3d90cafdf5c" />
 
-Add a screenshot of the application here:
-
-    <img width="1253" height="720" alt="image" src="https://github.com/user-attachments/assets/f48e7c94-bbc3-4952-a85e-ec8e3e28912e" />
 
 
 ---
